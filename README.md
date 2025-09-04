@@ -6,6 +6,9 @@
 
 [Chapter02.공기질 데이터 분석 및 고객 리포트 기획 :cloud: ](./Chapter02/)
 
+[Chapter03.기상 데이터 활용 전력 발전량 예측 :sunny: ](./Chapter03/)
+
+
 
 ### Stacks
 <div>
